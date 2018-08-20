@@ -5,7 +5,7 @@ description: Protects the item frame from rotation and destruction
 author: MCPE_PC
 main: mcpepc\ItemFrameProtector\ItemFrameProtector
 api:
- - 3.0.0
+- 3.0.0
 permissions:
   itemframeprotector.bypass:
     default: op
