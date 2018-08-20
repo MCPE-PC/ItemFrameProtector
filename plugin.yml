@@ -1,0 +1,13 @@
+---
+name: ItemFrameProtector
+version: 0.1.0
+description: Protects the item frame from rotation and destruction
+author: MCPE_PC
+main: mcpepc\ItemFrameProtector\ItemFrameProtector
+api:
+ - 3.0.0
+permissions:
+  itemframeprotector.bypass:
+    default: op
+    description: Bypass item frame protection
+...
